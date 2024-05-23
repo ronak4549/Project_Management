@@ -1,6 +1,6 @@
 # Project_Management
 
-Project Management Application in Laravel with react using inertia
+Project Management Application in Laravel with react using inertia.
 
 ==> Features <==
 
